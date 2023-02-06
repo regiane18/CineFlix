@@ -1,0 +1,198 @@
+{
+    "movies": [
+        {
+            "id": 1, 
+            "title": "Pantera Negra: Wakanda Para Sempre", 
+            "launch": "10/11/2022",
+            "genre": "Ação/Aventura",
+            "overview": "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa.", 
+            "vote_average": 5
+        },
+        {
+            "id": 2, 
+            "title": "O Menu", 
+            "launch": "01/12/2022",
+            "genre": "Terror/Suspense",
+            "overview": "Um jovem casal visita um restaurante exclusivo em uma ilha remota onde o aclamado chef prepara um delicioso menu e algumas surpresas chocantes.", 
+            "vote_average": 4
+        },
+        {
+            "id": 3, 
+            "title": "Casamento Armado", 
+            "launch": "28/12/2022",
+            "genre": "Comédia/Romântico",
+            "overview": "É um filme de comédia romântica estadunidense dirigido por Jason Moore com roteiro de Mark Hammer e Liz Meriwether. O filme é estrelado por Josh Duhamel e Jennifer Lopez.", 
+            "vote_average": 4
+        },
+        {
+            "id": 4, 
+            "title": "Avatar", 
+            "launch": "15/12/2022",
+            "genre": "Aventura",
+            "overview": "Após formar uma família, Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve travar uma guerra difícil contra os humanos.", 
+            "vote_average": 5
+        },
+        {
+            "id": 5, 
+            "title": "Adão Negro", 
+            "launch": "20/10/2022",
+            "genre": "Ação/Aventura",
+            "overview": "O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra", 
+            "vote_average": 4
+        },
+        {
+            "id": 6, 
+            "title": "Top Gun: Maverick", 
+            "launch": "26/06/2022",
+            "genre": "Drama/Ação",
+            "overview": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.", 
+            "vote_average": 5
+        },
+        {
+            "id": 7, 
+            "title": "Enola Holmes 2", 
+            "launch": "27/10/2022",
+            "genre": "Mistério/Crime",
+            "overview": "Em seu primeiro caso oficial como detetive, Enola precisa encontrar uma menina desaparecida. Para isso, ela conta com a ajuda dos amigos e do irmão, Sherlock.", 
+            "vote_average": 3
+        },
+        {
+            "id": 8, 
+            "title": "Spirited: Um Conto Natalino", 
+            "launch": "11/11/2022",
+            "genre": "Natalina/Musical",
+            "overview": "Spirited é um filme de temática natalina musical estadunidense escrito e dirigido por Sean Anders e John Morris. A obra é uma versão moderna da obra literária, A Christmas Carol, de Charles Dickens, de 1843, estrelada por Ryan Reynolds, Will Ferrell e Octavia Spencer.", 
+            "vote_average": 3
+        },
+        {
+            "id": 9, 
+            "title": "Continência ao Amor", 
+            "launch": "04/08/2022",
+            "genre": "Drama",
+            "overview": "Uma cantora se casa por conveniência com um militar que está prestes a ir para a guerra, mas uma tragédia transforma esse relacionamento de fachada em realidade.", 
+            "vote_average": 4
+        },
+        {
+            "id": 10, 
+            "title": "Trem Bala", 
+            "launch": "04/08/2022",
+            "genre": "Ação/Suspense",
+            "overview": "Em um trem-bala indo rapidamente de Tóquio a Morioka, cinco assassinos profissionais descobrem que possuem o mesmo objetivo.", 
+            "vote_average": 3
+        },
+        {
+            "id": 11, 
+            "title": "Gato de Botas 2: O Último Pedido", 
+            "launch": "05/01/2023",
+            "genre": "Aventura/Comédia",
+            "overview": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.", 
+            "vote_average": 5
+        },
+        {
+            "id": 12, 
+            "title": "Homem Formiga e Vespa: Quantumania", 
+            "launch": "16/02/2023",
+            "genre": "Ação/Aventura",
+            "overview": "Contra Kang, o Conquistador, no reino quântico.", 
+            "vote_average": "-"
+        },
+        {
+            "id": 13, 
+            "title": "Guardiões da Galáxia: Volume 3", 
+            "launch": "05/05/2023",
+            "genre": "Ação/Aventura",
+            "overview": "Guardians of the Galaxy Vol. 3 é um futuro filme de super-herói estadunidense baseado na equipe ficcional de mesmo nome, da Marvel Comics, produzido pela Marvel Studios e distribuído pela Walt Disney Studios Motion Pictures.", 
+            "vote_average": "-"
+        },
+        {
+            "id": 14, 
+            "title": "John Wick 4", 
+            "launch": "23/03/2023",
+            "genre": "Ação",
+            "overview": "Com o preço por sua cabeça cada vez maior, o lendário assassino de aluguel John Wick leva sua luta contra o High Table global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, do Japão a Berlim.", 
+            "vote_average": "-"
+        },
+        {
+            "id": 15, 
+            "title": "Shazam! Fúria dos Deuses", 
+            "launch": "17/03/2023",
+            "genre": "Ação/Fantasia",
+            "overview": "Dá continuidade à história do adolescente Billy Batson que, assim que diz a palavra mágica \"SHAZAM!\", transforma-se no seu alter-ego de Super Herói adulto, Shazam", 
+            "vote_average": "-"
+        },
+        {
+            "id": 16, 
+            "title": "Aquaman e o Reino Perdido", 
+            "launch": "17/03/2023",
+            "genre": "Ação/Fantasia",
+            "overview": "É um filme de super-herói americano baseado no personagem Aquaman da DC Comics. Produzido pela DC Films, The Safran Company e Atomic Monster Productions, e distribuído pela Warner Bros.", 
+            "vote_average": "-"
+        },
+        {
+            "id": 17, 
+            "title": "Missão Impossível 2", 
+            "launch": "24/05/2023",
+            "genre": "Ação",
+            "overview": "Ethan Hunt retorna para liderar sua equipe em uma missão que pretende capturar um vírus mortal alemão antes que ele seja liberado por terroristas. Sua missão é fazer o impossível, até porque ele não é a única pessoa procurando as amostras da doença. Ele também compete com uma gangue de terroristas internacionais, liderados por um ex-agente que já roubou a cura para o vírus.", 
+            "vote_average": "-"
+        },
+        {
+            "id": 18, 
+            "title": "Esquema de Risco: Operação Fortune", 
+            "launch": "12/01/2023",
+            "genre": "Ação/Comédia",
+            "overview": "O superespião Orson Fortune (Jason Statham) deve encontrar e parar a venda de uma nova tecnologia de armas usada pelo mediador de armas bilionário Greg Simmonds (Hugh Grant). Relutantemente, Fortune tem de se juntar aos melhor operativos do mundo (Audrey Plaza, Cary Elwes, Bugzy Malone), conseguindo recrutar ainda Danny Francesco (Josh Hartnett), a maior estrela de cinema de Hollywood, para os ajudar na missão internacional de salvar o mundo.", 
+            "vote_average": 3
+        },
+        {
+            "id": 19, 
+            "title": "Alerta Máximo", 
+            "launch": "26/01/2023",
+            "genre": "Ação/Suspense",
+            "overview": "O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.", 
+            "vote_average": 4
+        },
+        {
+            "id": 20, 
+            "title": "You People", 
+            "launch": "20/01/2023",
+            "genre": "Comédia/Romântico",
+            "overview": "Ezra sai de uma vida de solidão ao começar a namorar a radiante Amira. Ele planeja pedir a mulher em casamento, mas os dois precisam conhecer as famílias um do outro antes. Mas seus pais têm culturas totalmente diferentes, o que ameaça essa relação.", 
+            "vote_average": 3
+        }
+    ],
+    "top-rated": [
+        {
+            "id": 1, 
+            "title": "Pantera Negra: Wakanda Para Sempre", 
+            "launch": "10/11/2022",
+            "genre": "Ação/Aventura",
+            "overview": "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa.", 
+            "vote_average": 5
+        },
+        {
+            "id": 4, 
+            "title": "Avatar", 
+            "launch": "15/12/2022",
+            "genre": "Aventura",
+            "overview": "Após formar uma família, Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve travar uma guerra difícil contra os humanos.", 
+            "vote_average": 5
+        },
+        {
+            "id": 6, 
+            "title": "Top Gun: Maverick", 
+            "launch": "26/06/2022",
+            "genre": "Drama/Ação",
+            "overview": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.", 
+            "vote_average": 5
+        },
+        {
+            "id": 11, 
+            "title": "Gato de Botas 2: O Último Pedido", 
+            "launch": "05/01/2023",
+            "genre": "Aventura/Comédia",
+            "overview": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.", 
+            "vote_average": 5
+        }
+    ]
+}
